@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114787" started-at="2015-07-15T11:20:26Z" finished-at="2015-07-15T11:22:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114787" started-at="2015-07-15T11:20:26Z" finished-at="2015-07-15T11:22:21Z">
+      <class name="net.mindengine.galen.java.sample.tests.WelcomePageTest">
+        <test-method status="PASS" signature="createDriver([Ljava.lang.Object;)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="createDriver" is-config="true" duration-ms="5584" started-at="2015-07-15T16:50:26Z" finished-at="2015-07-15T16:50:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@36f1046f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="initReport" is-config="true" duration-ms="67" started-at="2015-07-15T16:50:31Z" finished-at="2015-07-15T16:50:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void net.mindengine.galen.java.sample.tests.WelcomePageTest.loginPage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="loginPage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="loginPage_shouldLookGood_onDevice" duration-ms="24930" started-at="2015-07-15T16:50:31Z" data-provider="devices" finished-at="2015-07-15T16:50:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice@43f02ef2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="quitDriver" is-config="true" duration-ms="416" started-at="2015-07-15T16:50:56Z" finished-at="2015-07-15T16:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="createDriver([Ljava.lang.Object;)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="createDriver" is-config="true" duration-ms="3908" started-at="2015-07-15T16:50:57Z" finished-at="2015-07-15T16:51:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@56d93692]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="loginPage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="loginPage_shouldLookGood_onDevice" duration-ms="11047" started-at="2015-07-15T16:51:01Z" data-provider="devices" finished-at="2015-07-15T16:51:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice@54d18072]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="initReport" is-config="true" duration-ms="0" started-at="2015-07-15T16:51:01Z" finished-at="2015-07-15T16:51:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void net.mindengine.galen.java.sample.tests.WelcomePageTest.loginPage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="quitDriver" is-config="true" duration-ms="235" started-at="2015-07-15T16:51:12Z" finished-at="2015-07-15T16:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="createDriver([Ljava.lang.Object;)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="createDriver" is-config="true" duration-ms="4411" started-at="2015-07-15T16:51:12Z" finished-at="2015-07-15T16:51:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1686f0b4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="initReport" is-config="true" duration-ms="10" started-at="2015-07-15T16:51:16Z" finished-at="2015-07-15T16:51:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void net.mindengine.galen.java.sample.tests.WelcomePageTest.loginPage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="loginPage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="loginPage_shouldLookGood_onDevice" duration-ms="20251" started-at="2015-07-15T16:51:16Z" data-provider="devices" finished-at="2015-07-15T16:51:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice@751d3241]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="quitDriver" is-config="true" duration-ms="228" started-at="2015-07-15T16:51:37Z" finished-at="2015-07-15T16:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="createDriver([Ljava.lang.Object;)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="createDriver" is-config="true" duration-ms="5968" started-at="2015-07-15T16:51:37Z" finished-at="2015-07-15T16:51:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@76c548f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="initReport" is-config="true" duration-ms="2" started-at="2015-07-15T16:51:43Z" finished-at="2015-07-15T16:51:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void net.mindengine.galen.java.sample.tests.WelcomePageTest.welcomePage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="welcomePage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="welcomePage_shouldLookGood_onDevice" duration-ms="16755" started-at="2015-07-15T16:51:43Z" data-provider="devices" finished-at="2015-07-15T16:52:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice@60d84f61]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomePage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="quitDriver" is-config="true" duration-ms="222" started-at="2015-07-15T16:52:00Z" finished-at="2015-07-15T16:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="createDriver([Ljava.lang.Object;)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="createDriver" is-config="true" duration-ms="4895" started-at="2015-07-15T16:52:00Z" finished-at="2015-07-15T16:52:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3900fa71]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="initReport" is-config="true" duration-ms="0" started-at="2015-07-15T16:52:05Z" finished-at="2015-07-15T16:52:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void net.mindengine.galen.java.sample.tests.WelcomePageTest.welcomePage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="welcomePage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="welcomePage_shouldLookGood_onDevice" duration-ms="5913" started-at="2015-07-15T16:52:05Z" data-provider="devices" finished-at="2015-07-15T16:52:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice@779dfe55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomePage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="quitDriver" is-config="true" duration-ms="225" started-at="2015-07-15T16:52:11Z" finished-at="2015-07-15T16:52:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="createDriver([Ljava.lang.Object;)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="createDriver" is-config="true" duration-ms="4127" started-at="2015-07-15T16:52:11Z" finished-at="2015-07-15T16:52:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@26722665]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="initReport(java.lang.reflect.Method)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="initReport" is-config="true" duration-ms="5" started-at="2015-07-15T16:52:15Z" finished-at="2015-07-15T16:52:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void net.mindengine.galen.java.sample.tests.WelcomePageTest.welcomePage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="welcomePage_shouldLookGood_onDevice(net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice)[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="welcomePage_shouldLookGood_onDevice" duration-ms="5344" started-at="2015-07-15T16:52:15Z" data-provider="devices" finished-at="2015-07-15T16:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[net.mindengine.galen.java.sample.components.GalenTestBase$TestDevice@677b8e13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomePage_shouldLookGood_onDevice -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:net.mindengine.galen.java.sample.tests.WelcomePageTest@35bbe5e8]" name="quitDriver" is-config="true" duration-ms="227" started-at="2015-07-15T16:52:20Z" finished-at="2015-07-15T16:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- net.mindengine.galen.java.sample.tests.WelcomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
